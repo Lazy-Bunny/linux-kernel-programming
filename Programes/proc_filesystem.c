@@ -1,17 +1,3 @@
-/*       
-	 \\\
-         ~~~
-	|^_^|
-       /|___|\
-     (*)|   |(*) 
-       _|_ _|_
-       |_| |_|
-	
-       This simple module create proc file called \"eg_proc_file\" and defining read and write
-       function for proc file. this program to just demonstrate the proc file system and showcas
-       data exchange between user space program and kernel space.
-*/
-
 #include<linux/module.h>
 #include<linux/init.h>
 #include<linux/kernel.h>
