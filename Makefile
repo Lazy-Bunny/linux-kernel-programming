@@ -1,4 +1,4 @@
-obj-m += proc_example.o
+obj-m += <module_name>.o # change this variable .0_0.
 
 KDIR ?= /lib/modules/$(shell uname -r)/build
 PWD := $(shell pwd)
