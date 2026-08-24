@@ -1,5 +1,6 @@
-# linux-kernel-programming
-The purpose of this is to help new learner to show some example kernel programmes to start out in kernel programming and also for my personal exploration.
+# Linux-Kernel-Programming
+This repo have collection of simple Linux kernel modules that demonstrate kernel features and interfaces.  
+Useful as a reference for learning kernel module development and driver programming in linux.
 
 ![Alt text](assets/penguin.PNG)
 
